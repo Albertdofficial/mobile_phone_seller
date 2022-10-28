@@ -1,0 +1,19 @@
+/* .student{
+    text-align: center;
+}
+.title{
+    margin-left: 30.5rem;
+}
+.cart{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+} */
+.cart{
+    display: flex;
+}
+
+.calculate{
+    display: flex;
+    margin: .5rem;
+}
